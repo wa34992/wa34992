@@ -38,9 +38,7 @@ daily to ship faster without lowering the quality bar.
 
 ---
 
-## Selected projects
-
-> Client names are kept confidential. Details are shared on request.
+## Delivered Projects
 
 **🤖 AI-Powered SEO Platform (SaaS, 800+ enterprise clients)**
 AI content, billing and integration features on a platform that grew 15x. LLM features built across OpenAI,
